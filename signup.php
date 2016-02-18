@@ -50,7 +50,7 @@ include("function.php");
 	    
 					
 				 <a href="signup_client.php"><input type="submit" class="medium success button" value="Sign up as a Client" name="s_client"/></a>
-				 <a href="signup_lawer.php"><input type="submit" class="medium success button" value="Sign up as a Lawer" name="s_lawyer"/></a>
+				 <a href="signup_lawer.php"><input type="submit" class="medium success button" value="Sign up as a Lawyer" name="s_lawyer"/></a>
 	   
       	</div>
       </div>
